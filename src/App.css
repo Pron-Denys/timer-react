@@ -1,0 +1,25 @@
+main {
+  text-align: center;
+}
+
+.conteiner {
+  display: inline-block;
+  background-color: rgba(91, 158, 203, 0.948);
+  border: 3px solid rgb(84, 0, 174);
+  border-radius: 10px;
+  padding: 50px 100px;
+}
+
+p {
+  font-size: 30px;
+}
+
+input {
+  background-color: rgba(59, 116, 154, 0.592);
+}
+
+button {
+  padding: 10px;
+  border: 3px solid rgb(84, 0, 174);
+  border-radius: 10px;
+}
